@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "base_track": "夏を待つセイル (帆)のように",
+  "base_artist": "ZARD",
+  "createdAt": "2026-03-25T18:56:50.502891Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏を待つセイル (帆)のように",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/01_夏を待つセイル_(帆)のように_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏を待つセイル(帆)のように",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/02_夏を待つセイル(帆)のように_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏を待つセイル (帆) のように",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/03_夏を待つセイル_(帆)_のように_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夏を待つセイル（帆）のように",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/04_夏を待つセイル(帆)のように_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夏を待つセイル (帆)のように",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/05_夏を待つセイル_(帆)のように_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夏を待つセイル(帆)のように(instrumental)",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/06_夏を待つセイル(帆)のように(instrumental)_ZARD.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夏を待つセイル(帆)のように",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/07_夏を待つセイル(帆)のように_ZARD.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏を待つセイル (帆)のように",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/pl_01_夏を待つセイル_(帆)のように_ZARD.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "夏を待つセイル (帆)のように",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/localdb_01_夏を待つセイル_(帆)のように_ZARD.lrc",
+      "repo_name": "p8sge2UY86Y"
+    }
+  ]
+}
